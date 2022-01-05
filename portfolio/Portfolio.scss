@@ -1,0 +1,28 @@
+@import "../variables.scss";
+.portfolio {
+  color: $colorMenuHover;
+}
+
+img {
+  width: 90%;
+  padding-top: 15px;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
+p {
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 16px;
+}
+.link {
+  color: $colorP;
+}
+.link:hover {
+  color: $colorMenuHover;
+}
+.contenent {
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+}
