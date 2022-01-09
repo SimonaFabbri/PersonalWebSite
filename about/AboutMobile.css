@@ -1,0 +1,40 @@
+.background {
+  background-image: url("photo1.gif");
+  top: 0px;
+  height: 33vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+}
+
+.about {
+  color: #a064b4;
+}
+
+.contenent {
+  position: absolute;
+  top: 30vh;
+  width: 100vw;
+  height: 100vh;
+  margin-left: 0vw;
+  margin-right: 0vw;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding-top: 4.93vh;
+  padding-left: 5.3vw;
+  padding-right: 5.3vw;
+  padding-bottom: 3vh;
+}
+
+h1 {
+  padding-bottom: 0px;
+}
+
+h2 {
+  padding-bottom: 8px;
+}
+
+li {
+  padding-bottom: 5px;
+}

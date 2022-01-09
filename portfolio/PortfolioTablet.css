@@ -1,0 +1,19 @@
+@import "../tablet.css";
+
+.contenent {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+img {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+p {
+  width: 130vw;
+}
+/*# sourceMappingURL=PortfolioTablet.css.map */
