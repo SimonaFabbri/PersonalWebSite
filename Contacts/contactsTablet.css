@@ -1,8 +1,10 @@
-@import "../tablet.css";
+.menu {
+  text-align: right;
+  padding-right: 110px;
+}
 
 .contenent {
   margin-left: 70px;
   margin-right: 70px;
   margin-top: 40px;
 }
-/*# sourceMappingURL=contactsTablet.css.map */

@@ -4,7 +4,7 @@
   margin: 0;
   border: 0;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -68,10 +68,16 @@ h2 {
 }
 
 .contenent {
-  background: -webkit-gradient(linear, left top, right bottom, from(#4d163d), to(#8100bd));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right bottom,
+    from(#4d163d),
+    to(#8100bd)
+  );
   background: linear-gradient(to bottom right, #4d163d, #8100bd);
   -webkit-box-shadow: 0 0 15px #dddddd inset;
-          box-shadow: 0 0 15px #dddddd inset;
+  box-shadow: 0 0 15px #dddddd inset;
   text-align: left;
 }
 

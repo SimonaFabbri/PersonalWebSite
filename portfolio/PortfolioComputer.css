@@ -1,0 +1,15 @@
+img {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-right: 100px;
+}
+
+p {
+  padding-right: 5vw;
+  padding-left: 5vw;
+  padding-top: 14vh;
+  font-size: 22px;
+  line-height: 24px;
+  letter-spacing: 0.07em;
+}
