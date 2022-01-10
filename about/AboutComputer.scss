@@ -1,6 +1,7 @@
 body {
   background-position: center;
   height: 100vh;
+  background-attachment: fixed;
 }
 
 .contenent {
@@ -13,4 +14,5 @@ body {
   padding-left: 6.67vw;
   padding-right: 5.42vw;
   padding-bottom: 6vh;
+  position: fixed;
 }
